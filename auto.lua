@@ -132,7 +132,7 @@ end
 -- Replace YOUR_URL_HERE with the direct raw link to your hosted script
 -- Example valid URL: "https://raw.githubusercontent.com/yourusername/yourrepo/main/AutoDinoCraft.lua"
 queue_on_teleport([[
-    loadstring(game:HttpGet("YOUR_URL_HERE"))()
+    loadstring(game:HttpGet(https://raw.githubusercontent.com/itswurz/autodinoegg/refs/heads/main/auto.lua))()
 ]])
 
 -- Initial execution
